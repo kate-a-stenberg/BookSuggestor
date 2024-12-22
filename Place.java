@@ -1,0 +1,8 @@
+/*
+FINAL PROJECT
+Place enum file
+12/7/2023
+Kate Stenberg
+ */
+
+public enum Place {CITY, TOWN, VILLAGE, SUBURB, COUNTRY, WILDERNESS, SCHOOLCOLLEGE, SPACE, MULTIPLE, COURT}

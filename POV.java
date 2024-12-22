@@ -1,0 +1,8 @@
+/*
+FINAL PROJECT
+POV enum file
+12/7/2023
+Kate Stenberg
+ */
+
+public enum POV {FIRST, FIRSTMULTIPLE, THIRD, THIRDMULTIPLE, MIXED}

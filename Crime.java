@@ -1,0 +1,8 @@
+/*
+FINAL PROJECT
+Crime enum file
+12/7/2023
+Kate Stenberg
+ */
+
+public enum Crime {SINGLEMURDER, MULTIMURDER, ARSON, THEFT, STALKING, TERRORISM, ABDUCTION}

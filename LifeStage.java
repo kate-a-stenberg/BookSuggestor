@@ -1,0 +1,8 @@
+/*
+FINAL PROJECT
+LifeStage enum file
+12/7/2023
+Kate Stenberg
+ */
+
+public enum LifeStage {CHILD, PRETEEN, TEEN, YOUNGADULT, ADULT, MIDDLEAGED, OLDADULT, IMMORTAL, MULTIPLE}

@@ -1,0 +1,9 @@
+Ideas for expansion:
+1. ask user how important each attribute is for similarity - assign weights based on user input
+2. read input book and append to file
+3. add GUI
+4. change stuff to follow SOLID principles
+5. include other factors: disability presence, mood for all books, romance presence in all books, concepts, character types, subplots, publication date
+6. include content warnings
+7. allow users to specify things they absolutely do not want
+8. allow for multiple genres at once (e.g. fantasy romance)
